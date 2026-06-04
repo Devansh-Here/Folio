@@ -8,9 +8,9 @@ A free, fully client-side resume builder with AI-powered roasting, ATS keyword a
 
 ## 🌐 Live Demo
 
-**👉 [Try Folio here](https://yourusername.github.io/folio-resume-builder)**
+**👉 [Try Folio here](https://devansh-here.github.io/Folio/)**
 
-> Replace the link above with your actual GitHub Pages URL after deploying.
+
 
 ---
 
@@ -30,7 +30,7 @@ A free, fully client-side resume builder with AI-powered roasting, ATS keyword a
 ## 🚀 How to Use
 
 ### Step 1 — Open the app
-Go to 👉 **[https://yourusername.github.io/folio-resume-builder](https://yourusername.github.io/folio-resume-builder)**
+Go to 👉 **[https://devansh-here.github.io/folio](https://devansh-here.github.io/Folio/)**
 
 No installation. No sign-up. Just open and start building.
 
@@ -117,7 +117,10 @@ open index.html   # That's it — no npm install, no build step
 
 ## 📸 Screenshots
 
-> Add screenshots here after deployment
+<img width="1920" height="918" alt="image" src="https://github.com/user-attachments/assets/c8eac40d-1515-4558-abc2-f84d3ab01442" />
+<img width="1150" height="717" alt="image" src="https://github.com/user-attachments/assets/b3cb3a88-8b52-4d65-914d-40c0817798e0" />
+
+
 
 ---
 
